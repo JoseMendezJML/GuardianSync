@@ -591,7 +591,7 @@ fun StepCounterScreen(
         }
 
         item {
-            WearMetricChip("☀️", "Luz", "${light?.toInt() ?: "--"} lx", Color(0xFFFFD740))
+            WearMetricChip("🔦", "Luz", "${light?.toInt() ?: "--"} lx", Color(0xFFFFD740))
         }
 
         item {
@@ -607,7 +607,7 @@ fun StepCounterScreen(
         }
 
         item {
-            WearMetricChip("🌀", "Giro", "X:${gyroX?.toInt() ?: "--"} Y:${gyroY?.toInt() ?: "--"}", Color(0xFF18FFFF))
+            WearMetricChip("➰", "Giro", "X:${gyroX?.toInt() ?: "--"} Y:${gyroY?.toInt() ?: "--"}", Color(0xFF18FFFF))
         }
     }
 }
