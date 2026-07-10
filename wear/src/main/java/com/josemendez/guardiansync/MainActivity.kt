@@ -595,7 +595,7 @@ fun StepCounterScreen(
         }
 
         item {
-            WearMetricChip("📍", "Proximidad", "${proximity?.toString() ?: "--"} cm", Color(0xFFCE93D8))
+            WearMetricChip("📍", "Near", "${proximity?.toString() ?: "--"} cm", Color(0xFFCE93D8))
         }
 
         item {
