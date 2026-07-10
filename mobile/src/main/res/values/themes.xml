@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema base de la aplicación Guardian Sync -->
+    <style name="Base.Theme.GuardianSync" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Aquí puedes personalizar colores principales si después quieres -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Tema principal de la app -->
+    <style name="Theme.GuardianSync" parent="Base.Theme.GuardianSync" />
+
+</resources>
