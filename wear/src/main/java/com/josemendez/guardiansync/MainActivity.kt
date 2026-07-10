@@ -562,7 +562,7 @@ fun StepCounterScreen(
         }
 
         item {
-            WearMetricChip("👣", "Pasos", steps.toString(), Color(0xFF40C4FF))
+            WearMetricChip("😂", "risas", steps.toString(), Color(0xFF40C4FF))
         }
 
         item {
