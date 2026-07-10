@@ -475,7 +475,7 @@ fun StepCounterScreen(
                     color = Color.White
                 )
                 Text(
-                    text = "José Juan",
+                    text = "Valeria:)",
                     style = MaterialTheme.typography.caption1,
                     textAlign = TextAlign.Center,
                     color = Color(0xFF90A4AE)
