@@ -589,7 +589,7 @@ fun MainScreen(
                             title = "Pasos",
                             value = currentSteps.toString(),
                             unit = "hoy",
-                            icon = "👣",
+                            icon = "+🏃‍♂️",
                             color = Color(0xFF00B8D4),
                             modifier = Modifier.weight(1f)
                         )
